@@ -142,4 +142,4 @@ stopSortingButton.addEventListener("click", function(){
     disableSortingBtn();
     disableSizeSlider();
     hasPressedStop = true;
-})s
+})

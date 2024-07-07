@@ -87,4 +87,4 @@ quickSortbtn.addEventListener('click', async function(){
     }
     enableNewArrayBtn();
     disableStopSortingBtn();
-});s
+});
